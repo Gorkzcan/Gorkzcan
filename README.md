@@ -1,8 +1,8 @@
-🔭 I’m currently working on Yorumla Social Media App
+🔭 I’m currently working on WallpaperAI App
 
 🌱 I’m currently learning Kotlin
 
-🤝 I’m looking for help with Yorumla Social Media App
+🤝 I’m looking for help with WallpaperAI App
 
 💬 Ask me about Kotlin, C, C++
 
