@@ -1,8 +1,6 @@
-🔭 I’m currently working on WallpaperAI App
+🔭 I’m currently working on Sehir360 App
 
 🌱 I’m currently learning Jetpack Compose
-
-🤝 I’m looking for help with WallpaperAI App
 
 💬 Ask me about Kotlin, C, C++
 
